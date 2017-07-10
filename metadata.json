@@ -4,9 +4,9 @@
   "author": "Haofei FENG <haofei.feng@sydneyd.edu.au>",
   "summary": "This is managing ssh",
   "license": "Apache-2.0",
-  "source": "https://github.com/fldhmily633190808/hfeitest01",
-  "project_page": "https://github.com/fldhmily633190808/hfeitest01",
-  "issues_url": "https://github.com/fldhmily633190808/hfeitest01/issues",
+  "source": "https://github.com/fldhmily633190808/hfeitest02",
+  "project_page": "https://github.com/fldhmily633190808/hfeitest02",
+  "issues_url": "https://github.com/fldhmily633190808/hfeitest02/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ],
